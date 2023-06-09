@@ -15,14 +15,13 @@
         }
     
         #countdown {
-          background-color: rgba(0, 0, 0, 0.7);
+          background-color: rgba(255, 255, 255, 0.7);
           color: rgb(241, 10, 145);
           font-family: 'bubblegum', sans-serif;
           font-size: 50px;
           padding: 20px;
           text-align: center;
           display: flex;
-          border-style: solid 2px #fff;
           justify-content: space-between;
           border-radius: 15px;
           margin-top: 100px;
@@ -44,7 +43,7 @@
           font-size: 14px;
           font-weight: bold;
           color: white;
-          font-family:"poppins",sans-serif;
+          font-family:"bubblegum",sans-serif;
           text-align: center;
         }
       
